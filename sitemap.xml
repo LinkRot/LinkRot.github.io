@@ -49,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.coastalimaging.info/images/favicon.ico</loc>
+    <lastmod>2014-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.coastalimaging.info/phone/ci-m-releases.html</loc>
     <lastmod>2014-04-19</lastmod>
     <changefreq>weekly</changefreq>
