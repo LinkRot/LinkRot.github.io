@@ -3,7 +3,7 @@
     <file name="site_global.css" crc="246093351"/>
     <file name="coastal-imaging---magnetics---releases.css" crc="3928018204" ref="coastal-imaging---magnetics---releases"/>
     <file name="contact---bookings.css" crc="3887103299" ref="contact---bookings"/>
-    <file name="index.css" crc="4206079939" ref="index"/>
+    <file name="index.css" crc="163281725" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
@@ -31,7 +31,7 @@
     <file name="index.html" crc="449164271" mt="1397965689439" redirect="true"/>
     <file name="ci-m-releases.html" crc="3870946354" mt="1397965742291" redirect="true"/>
   </folder>
-  <file name="index.html" crc="132144226" mt="1397971324765" redirect="true"/>
+  <file name="index.html" crc="132144226" mt="1397972849834" redirect="true"/>
   <file name="contact---bookings.html" crc="146361226" mt="1397970910170" redirect="true"/>
   <file name="coastal-imaging---magnetics---releases.html" crc="174449500" mt="1397970910172" redirect="true"/>
 </manifest>
