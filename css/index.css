@@ -7,8 +7,8 @@
 #page
 {
 	z-index: 1;
-	width: 497px;
-	min-height: 422.66489361702133px;
+	width: 495px;
+	min-height: 420.66489361702133px;
 	background-image: none;
 	border-width: 10px;
 	border-style: solid;
@@ -16,7 +16,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 183px 213px 62.335106382978665px 250px;
+	padding: 183px 215px 64.33510638297867px 250px;
 }
 
 #u80
@@ -131,7 +131,7 @@
 	font-style: italic;
 }
 
-#u847
+#u1051
 {
 	z-index: 27;
 	width: 290px;
@@ -139,8 +139,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 207px;
-	margin-top: 64px;
+	margin-left: 205px;
+	margin-top: 54px;
 	position: relative;
 }
 
