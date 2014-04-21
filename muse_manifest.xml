@@ -3,36 +3,36 @@
     <file name="site_global.css" crc="246093351"/>
     <file name="coastal-imaging---magnetics---releases.css" crc="3928018204" ref="coastal-imaging---magnetics---releases"/>
     <file name="contact---bookings.css" crc="3887103299" ref="contact---bookings"/>
-    <file name="index.css" crc="3810081081" ref="index"/>
+    <file name="index.css" crc="3767231376" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
     <file name="museutils.js" crc="3880880085" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>index:index:contact---bookings:coastal-imaging---magnetics---releases"/>
     <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
     <file name="museredirect.js" crc="299715755" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:contact---bookings:coastal-imaging---magnetics---releases"/>
   </folder>
   <folder name="images">
     <file name="test 2.png" crc="298509689" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
     <file name="coastal imaging - magnetics logo with title.png" crc="3971874900" ref="phone>index:index"/>
     <file name="crystal 3.png" crc="298455968" ref="phone>index:contact---bookings"/>
+    <file name="facebook.png" crc="3829610768" ref="phone>index:index"/>
     <file name="promo side video.png" crc="4283437578" ref="phone>ci-m-releases:coastal-imaging---magnetics---releases"/>
     <file name="favicon.ico" crc="275206145" ref="index"/>
-    <file name="u783.png" crc="503924517" ref="contact---bookings"/>
+    <file name="u783.png" crc="26296094" ref="contact---bookings"/>
     <file name="u783-r.png" crc="3977406375" ref="contact---bookings"/>
     <file name="u365.png" crc="503924517" ref="coastal-imaging---magnetics---releases"/>
     <file name="u365-r.png" crc="360305613" ref="coastal-imaging---magnetics---releases"/>
-    <file name="fb-f-logo__blue_29.png" crc="94640039" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="7298210" ref="phone>index"/>
+      <file name="index.css" crc="4235086445" ref="phone>index"/>
       <file name="ci-m-releases.css" crc="4284717451" ref="phone>ci-m-releases"/>
     </folder>
-    <file name="index.html" crc="449164271" mt="1397965689439" redirect="true"/>
-    <file name="ci-m-releases.html" crc="3870946354" mt="1397965742291" redirect="true"/>
+    <file name="index.html" crc="3992485727" mt="1398122224302" redirect="true"/>
+    <file name="ci-m-releases.html" crc="3870946354" mt="1398122266998" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4043360744" mt="1397973728498" redirect="true"/>
+  <file name="index.html" crc="3895958018" mt="1398122224299" redirect="true"/>
   <file name="contact---bookings.html" crc="146361226" mt="1397970910170" redirect="true"/>
   <file name="coastal-imaging---magnetics---releases.html" crc="174449500" mt="1397970910172" redirect="true"/>
 </manifest>

@@ -25,28 +25,22 @@
 
 .html
 {
-	background: #000000 url("../../images/test%202.png") no-repeat right top scroll;
-	background-size: cover !important;
+	background: #000000 url("../../images/test%202.png") repeat-y center center scroll;
 }
 
 #page
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.6740020589535px;
+	min-height: 427.92400205895353px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
+	padding-top: 71px;
+	padding-bottom: 71.07599794104647px;
 	margin-left: 38px;
 	margin-right: 38px;
-}
-
-#page_position_content
-{
-	margin-top: 71px;
-	margin-bottom: 71px;
 }
 
 #pu944
@@ -228,16 +222,12 @@
 	visibility: inherit;
 }
 
-#u1047
+#u1097
 {
 	z-index: 51;
-	width: 290px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 164px;
-	margin-top: 28px;
+	width: 47px;
+	margin-left: 165px;
+	margin-top: 24px;
 	position: relative;
 }
 
