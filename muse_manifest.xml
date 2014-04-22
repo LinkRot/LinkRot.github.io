@@ -3,7 +3,7 @@
     <file name="site_global.css" crc="246093351"/>
     <file name="coastal-imaging---magnetics---releases.css" crc="3928018204" ref="coastal-imaging---magnetics---releases"/>
     <file name="contact---bookings.css" crc="3887103299" ref="contact---bookings"/>
-    <file name="index.css" crc="3767231376" ref="index"/>
+    <file name="index.css" crc="64528989" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>ci-m-releases:index:contact---bookings:coastal-imaging---magnetics---releases"/>
@@ -19,7 +19,7 @@
     <file name="facebook.png" crc="3829610768" ref="phone>index:index"/>
     <file name="promo side video.png" crc="4283437578" ref="phone>ci-m-releases:coastal-imaging---magnetics---releases"/>
     <file name="favicon.ico" crc="275206145" ref="index"/>
-    <file name="u783.png" crc="26296094" ref="contact---bookings"/>
+    <file name="u783.png" crc="503924517" ref="contact---bookings"/>
     <file name="u783-r.png" crc="3977406375" ref="contact---bookings"/>
     <file name="u365.png" crc="503924517" ref="coastal-imaging---magnetics---releases"/>
     <file name="u365-r.png" crc="360305613" ref="coastal-imaging---magnetics---releases"/>
@@ -30,9 +30,9 @@
       <file name="ci-m-releases.css" crc="4284717451" ref="phone>ci-m-releases"/>
     </folder>
     <file name="index.html" crc="3992485727" mt="1398122224302" redirect="true"/>
-    <file name="ci-m-releases.html" crc="3870946354" mt="1398122266998" redirect="true"/>
+    <file name="ci-m-releases.html" crc="138644305" mt="1398122264000" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3895958018" mt="1398122224299" redirect="true"/>
+  <file name="index.html" crc="3895958018" mt="1398127176199" redirect="true"/>
   <file name="contact---bookings.html" crc="146361226" mt="1397970910170" redirect="true"/>
   <file name="coastal-imaging---magnetics---releases.html" crc="174449500" mt="1397970910172" redirect="true"/>
 </manifest>
